@@ -1,3 +1,3 @@
 a = int(input("a = "))
 b = int(input("b = "))
-print(f"Сумма a + b = {a + b}")
+print(f"Разность a - b = {a - b}")
